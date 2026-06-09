@@ -4,3 +4,44 @@
     background-color: black;
     color: red;
 }
+
+.principal{
+    width: 10%;
+    margin: 0 auto;
+    background-color: #ffe600;
+    border: 2px solid #ffe600;
+}
+
+.conteudo1{
+    color: #000000; 
+    background-color: red; 
+
+}
+
+.conteudo2{
+    color: red; 
+    background-color: black;
+}
+
+.testeMain{
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    overflow: auto;
+}
+
+.teste1{
+    float:left;
+    background-color: red;
+    width: 50%;
+    height: 150px;
+}
+
+.test1 div{
+    height: 75px;
+}
+
+.teste2{
+    background-color: rgb(47, 0, 255);
+    width: 50%;
+    height: 150px;
+}
