@@ -23,25 +23,25 @@
     background-color: black;
 }
 
-.testeMain{
+.main{
     background-color: rgb(255, 0, 0);
     width: 100%;
     overflow: auto;
 }
 
-.teste1{
+.submain1{
     float:left;
     background-color: red;
     width: 50%;
-    height: 150px;
+    height: 250px;
 }
 
-.test1 div{
-    height: 75px;
+.submain1 div{
+    height: 115px;
 }
 
-.teste2{
+.submain2{
     background-color: rgb(47, 0, 255);
     width: 50%;
-    height: 150px;
+    height: 250px;
 }
